@@ -4,6 +4,9 @@ body,
 .view {
   height: 100%; }
 
+.view {
+ background-color: green;}
+
 /* Full Page Carousel itself*/
 .carousel {
   height: 100%; }
